@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: noseyug/gymflex-frontend:v109
+        image: noseyug/gymflex-frontend:v111
         ports:
         - containerPort: 80
 ---
