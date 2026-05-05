@@ -38,7 +38,7 @@ metadata:
   namespace: devops-dev
 spec:
   rules:
-  - host: 13.212.50.49.nip.io
+  - host: 13.212.10.28.nip.io
     http:
       paths:
       - path: /
