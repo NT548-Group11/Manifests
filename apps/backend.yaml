@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: noseyug/gymflex-backend:v124
+        image: noseyug/gymflex-backend:v125
         ports:
         - containerPort: 5000
         env:
